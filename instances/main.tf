@@ -19,3 +19,5 @@ resource "aws_instance" "example" {
   tags = {
     Name = "BurritoDemoInstance"
   }
+}
+
